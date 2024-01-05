@@ -1,0 +1,14 @@
+body{
+    font-size: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, ul{
+    background-color: #e74c3c;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    list-style-type: none;
+
+}
